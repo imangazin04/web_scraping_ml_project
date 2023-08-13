@@ -1,0 +1,1418 @@
+2023-08-14 00:13:16,019 - INFO - Запуск скрапера
+2023-08-14 00:13:38,644 - ERROR - Произошла ошибка в области pagination: Message: element click intercepted: Element <li class="pagination__el">...</li> is not clickable at point (756, 902). Other element would receive the click: <div class="spinner__shadow">...</div>
+  (Session info: chrome=115.0.5790.171)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF601904A62+57106]
+	(No symbol) [0x00007FF60187CF52]
+	(No symbol) [0x00007FF60174E2CB]
+	(No symbol) [0x00007FF60178D290]
+	(No symbol) [0x00007FF60178B90D]
+	(No symbol) [0x00007FF6017898F5]
+	(No symbol) [0x00007FF601788B05]
+	(No symbol) [0x00007FF60177EE2F]
+	(No symbol) [0x00007FF6017A69BA]
+	(No symbol) [0x00007FF60177E746]
+	(No symbol) [0x00007FF6017A6BD0]
+	(No symbol) [0x00007FF6017BE522]
+	(No symbol) [0x00007FF6017A6793]
+	(No symbol) [0x00007FF60177CE81]
+	(No symbol) [0x00007FF60177E064]
+	GetHandleVerifier [0x00007FF601BB4222+2873042]
+	GetHandleVerifier [0x00007FF601C06590+3209792]
+	GetHandleVerifier [0x00007FF601BFF3AF+3180639]
+	GetHandleVerifier [0x00007FF601995F25+652245]
+	(No symbol) [0x00007FF601888618]
+	(No symbol) [0x00007FF6018847C4]
+	(No symbol) [0x00007FF6018848BC]
+	(No symbol) [0x00007FF601874C33]
+	BaseThreadInitThunk [0x00007FFC559F55A0+16]
+	RtlUserThreadStart [0x00007FFC56D0485B+43]
+
+2023-08-14 00:13:38,645 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:13:40,862 - INFO - Скрапер завершил работу
+2023-08-14 00:14:27,405 - INFO - Запуск скрапера
+2023-08-14 00:14:41,050 - ERROR - Произошла ошибка в области pagination: Message: element click intercepted: Element <li class="pagination__el">...</li> is not clickable at point (756, 888). Other element would receive the click: <img alt="" class="item-card__image" src="https://resources.cdn-kaspi.kz/img/m/p/h79/h87/81301572976670.jpg?format=preview-medium">
+  (Session info: chrome=115.0.5790.171)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF601904A62+57106]
+	(No symbol) [0x00007FF60187CF52]
+	(No symbol) [0x00007FF60174E2CB]
+	(No symbol) [0x00007FF60178D290]
+	(No symbol) [0x00007FF60178B90D]
+	(No symbol) [0x00007FF6017898F5]
+	(No symbol) [0x00007FF601788B05]
+	(No symbol) [0x00007FF60177EE2F]
+	(No symbol) [0x00007FF6017A69BA]
+	(No symbol) [0x00007FF60177E746]
+	(No symbol) [0x00007FF6017A6BD0]
+	(No symbol) [0x00007FF6017BE522]
+	(No symbol) [0x00007FF6017A6793]
+	(No symbol) [0x00007FF60177CE81]
+	(No symbol) [0x00007FF60177E064]
+	GetHandleVerifier [0x00007FF601BB4222+2873042]
+	GetHandleVerifier [0x00007FF601C06590+3209792]
+	GetHandleVerifier [0x00007FF601BFF3AF+3180639]
+	GetHandleVerifier [0x00007FF601995F25+652245]
+	(No symbol) [0x00007FF601888618]
+	(No symbol) [0x00007FF6018847C4]
+	(No symbol) [0x00007FF6018848BC]
+	(No symbol) [0x00007FF601874C33]
+	BaseThreadInitThunk [0x00007FFC559F55A0+16]
+	RtlUserThreadStart [0x00007FFC56D0485B+43]
+
+2023-08-14 00:14:41,051 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:14:43,213 - INFO - Скрапер завершил работу
+2023-08-14 00:15:47,404 - INFO - Запуск скрапера
+2023-08-14 00:15:58,109 - ERROR - Произошла ошибка в области pagination: Message: element click intercepted: Element <li class="pagination__el">...</li> is not clickable at point (756, 888). Other element would receive the click: <img alt="" class="item-card__image" src="https://resources.cdn-kaspi.kz/img/m/p/h13/h60/81216687210526.jpg?format=preview-medium">
+  (Session info: chrome=115.0.5790.171)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF601904A62+57106]
+	(No symbol) [0x00007FF60187CF52]
+	(No symbol) [0x00007FF60174E2CB]
+	(No symbol) [0x00007FF60178D290]
+	(No symbol) [0x00007FF60178B90D]
+	(No symbol) [0x00007FF6017898F5]
+	(No symbol) [0x00007FF601788B05]
+	(No symbol) [0x00007FF60177EE2F]
+	(No symbol) [0x00007FF6017A69BA]
+	(No symbol) [0x00007FF60177E746]
+	(No symbol) [0x00007FF6017A6BD0]
+	(No symbol) [0x00007FF6017BE522]
+	(No symbol) [0x00007FF6017A6793]
+	(No symbol) [0x00007FF60177CE81]
+	(No symbol) [0x00007FF60177E064]
+	GetHandleVerifier [0x00007FF601BB4222+2873042]
+	GetHandleVerifier [0x00007FF601C06590+3209792]
+	GetHandleVerifier [0x00007FF601BFF3AF+3180639]
+	GetHandleVerifier [0x00007FF601995F25+652245]
+	(No symbol) [0x00007FF601888618]
+	(No symbol) [0x00007FF6018847C4]
+	(No symbol) [0x00007FF6018848BC]
+	(No symbol) [0x00007FF601874C33]
+	BaseThreadInitThunk [0x00007FFC559F55A0+16]
+	RtlUserThreadStart [0x00007FFC56D0485B+43]
+
+2023-08-14 00:15:58,112 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:16:09,168 - ERROR - Произошла ошибка в области pagination: Message: element click intercepted: Element <li class="pagination__el">...</li> is not clickable at point (756, 902). Other element would receive the click: <img alt="" class="item-card__image" src="https://resources.cdn-kaspi.kz/img/m/p/h7b/h43/80793955794974.jpg?format=preview-medium">
+  (Session info: chrome=115.0.5790.171)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF601904A62+57106]
+	(No symbol) [0x00007FF60187CF52]
+	(No symbol) [0x00007FF60174E2CB]
+	(No symbol) [0x00007FF60178D290]
+	(No symbol) [0x00007FF60178B90D]
+	(No symbol) [0x00007FF6017898F5]
+	(No symbol) [0x00007FF601788B05]
+	(No symbol) [0x00007FF60177EE2F]
+	(No symbol) [0x00007FF6017A69BA]
+	(No symbol) [0x00007FF60177E746]
+	(No symbol) [0x00007FF6017A6BD0]
+	(No symbol) [0x00007FF6017BE522]
+	(No symbol) [0x00007FF6017A6793]
+	(No symbol) [0x00007FF60177CE81]
+	(No symbol) [0x00007FF60177E064]
+	GetHandleVerifier [0x00007FF601BB4222+2873042]
+	GetHandleVerifier [0x00007FF601C06590+3209792]
+	GetHandleVerifier [0x00007FF601BFF3AF+3180639]
+	GetHandleVerifier [0x00007FF601995F25+652245]
+	(No symbol) [0x00007FF601888618]
+	(No symbol) [0x00007FF6018847C4]
+	(No symbol) [0x00007FF6018848BC]
+	(No symbol) [0x00007FF601874C33]
+	BaseThreadInitThunk [0x00007FFC559F55A0+16]
+	RtlUserThreadStart [0x00007FFC56D0485B+43]
+
+2023-08-14 00:16:09,170 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:16:16,487 - ERROR - Произошла ошибка в области pagination: Message: element click intercepted: Element is not clickable at point (756, 904)
+  (Session info: chrome=115.0.5790.171)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF601904A62+57106]
+	(No symbol) [0x00007FF60187CF52]
+	(No symbol) [0x00007FF60174E2CB]
+	(No symbol) [0x00007FF60178D290]
+	(No symbol) [0x00007FF60178B90D]
+	(No symbol) [0x00007FF6017898F5]
+	(No symbol) [0x00007FF601788B05]
+	(No symbol) [0x00007FF60177EE2F]
+	(No symbol) [0x00007FF6017A69BA]
+	(No symbol) [0x00007FF60177E746]
+	(No symbol) [0x00007FF6017A6BD0]
+	(No symbol) [0x00007FF6017BE522]
+	(No symbol) [0x00007FF6017A6793]
+	(No symbol) [0x00007FF60177CE81]
+	(No symbol) [0x00007FF60177E064]
+	GetHandleVerifier [0x00007FF601BB4222+2873042]
+	GetHandleVerifier [0x00007FF601C06590+3209792]
+	GetHandleVerifier [0x00007FF601BFF3AF+3180639]
+	GetHandleVerifier [0x00007FF601995F25+652245]
+	(No symbol) [0x00007FF601888618]
+	(No symbol) [0x00007FF6018847C4]
+	(No symbol) [0x00007FF6018848BC]
+	(No symbol) [0x00007FF601874C33]
+	BaseThreadInitThunk [0x00007FFC559F55A0+16]
+	RtlUserThreadStart [0x00007FFC56D0485B+43]
+
+2023-08-14 00:16:16,490 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:16:25,652 - ERROR - Произошла ошибка в области pagination: Message: element click intercepted: Element <li class="pagination__el">...</li> is not clickable at point (756, 894). Other element would receive the click: <div class="spinner__shadow">...</div>
+  (Session info: chrome=115.0.5790.171)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00007FF601904A62+57106]
+	(No symbol) [0x00007FF60187CF52]
+	(No symbol) [0x00007FF60174E2CB]
+	(No symbol) [0x00007FF60178D290]
+	(No symbol) [0x00007FF60178B90D]
+	(No symbol) [0x00007FF6017898F5]
+	(No symbol) [0x00007FF601788B05]
+	(No symbol) [0x00007FF60177EE2F]
+	(No symbol) [0x00007FF6017A69BA]
+	(No symbol) [0x00007FF60177E746]
+	(No symbol) [0x00007FF6017A6BD0]
+	(No symbol) [0x00007FF6017BE522]
+	(No symbol) [0x00007FF6017A6793]
+	(No symbol) [0x00007FF60177CE81]
+	(No symbol) [0x00007FF60177E064]
+	GetHandleVerifier [0x00007FF601BB4222+2873042]
+	GetHandleVerifier [0x00007FF601C06590+3209792]
+	GetHandleVerifier [0x00007FF601BFF3AF+3180639]
+	GetHandleVerifier [0x00007FF601995F25+652245]
+	(No symbol) [0x00007FF601888618]
+	(No symbol) [0x00007FF6018847C4]
+	(No symbol) [0x00007FF6018848BC]
+	(No symbol) [0x00007FF601874C33]
+	BaseThreadInitThunk [0x00007FFC559F55A0+16]
+	RtlUserThreadStart [0x00007FFC56D0485B+43]
+
+2023-08-14 00:16:25,653 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:16:28,781 - INFO - Скрапер завершил работу
+2023-08-14 00:18:10,746 - INFO - Запуск скрапера
+2023-08-14 00:18:16,077 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,081 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,087 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,091 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,096 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,101 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,106 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,111 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,115 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,120 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,126 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,131 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,407 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,412 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,416 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,419 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,421 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,424 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,426 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,429 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,432 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,438 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,442 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,445 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,639 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,642 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,654 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,657 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,660 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,665 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,667 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,669 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,672 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,674 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,679 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,684 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,876 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,879 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,882 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,885 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,889 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,892 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,896 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,899 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,901 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,903 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,906 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:16,911 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,104 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,106 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,110 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,113 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,116 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,118 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,121 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,122 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,125 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,129 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,132 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,134 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,395 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,400 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,405 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,412 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,416 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,418 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,421 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,424 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,428 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,432 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,438 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,448 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,624 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,629 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,632 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,634 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,639 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,641 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,645 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,648 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,650 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,656 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,661 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,664 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,851 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,853 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,856 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,858 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,861 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,864 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,867 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,868 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,871 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,873 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,876 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:17,879 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,146 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,149 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,154 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,157 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,162 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,166 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,170 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,176 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,181 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,187 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,191 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,196 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,392 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,395 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,398 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,400 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,403 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,405 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,409 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,413 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,415 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,418 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,421 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,424 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,682 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,685 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,689 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,694 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,698 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,702 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,709 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,714 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,719 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,725 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,729 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:18,735 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,017 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,025 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,032 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,036 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,040 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,045 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,047 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,050 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,054 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,060 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,066 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,071 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,368 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,371 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,373 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,377 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,379 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,382 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,384 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,386 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,389 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,392 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,395 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,399 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,624 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,627 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,630 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,635 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,639 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,644 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,647 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,649 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,652 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,656 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,661 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,665 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,956 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,960 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,962 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,964 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,966 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,968 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,972 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,976 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,979 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,984 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,988 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:19,994 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,327 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,330 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,335 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,339 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,344 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,350 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,353 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,359 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,363 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,367 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,372 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,377 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,727 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,729 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,732 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,734 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,736 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,739 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,743 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,746 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,750 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,753 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,757 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:20,761 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,021 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,027 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,032 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,039 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,045 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,054 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,062 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,066 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,069 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,073 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,076 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,078 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,303 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,307 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,311 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,315 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,318 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,322 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,327 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,329 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,333 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,336 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,339 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,343 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,620 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,624 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,629 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,632 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,636 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,640 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,644 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,646 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,648 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,650 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,652 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,655 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,918 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,924 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,929 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,933 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,937 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,944 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,951 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,955 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,960 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,964 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,969 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:21,973 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,301 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,306 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,311 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,315 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,319 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,325 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,329 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,335 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,340 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,347 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,351 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,356 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,638 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,645 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,650 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,655 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,660 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,665 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,669 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,675 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,680 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,684 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,689 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,695 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,963 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,966 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,968 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,971 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,974 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,976 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,979 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,982 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,984 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,988 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,992 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:22,994 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,244 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,249 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,254 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,262 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,265 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,269 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,272 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,275 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,278 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,280 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,283 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,286 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,559 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,568 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,577 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,582 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,586 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,593 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,597 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,602 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,606 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,611 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,616 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,621 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,819 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,822 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,825 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,828 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,831 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,835 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,837 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,841 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,845 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,848 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,853 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:23,857 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,133 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,137 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,141 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,144 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,147 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,149 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,153 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,160 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,164 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,172 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,180 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,190 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,550 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,557 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,565 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,575 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,583 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,590 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,598 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,607 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,615 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,622 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,630 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,639 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,910 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,919 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,931 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,935 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,944 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,949 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,953 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,960 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,964 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,968 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,973 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:24,978 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,250 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,254 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,257 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,264 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,269 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,275 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,280 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,284 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,288 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,295 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,300 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,304 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,590 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,594 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,596 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,599 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,601 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,604 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,610 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,615 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,619 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,624 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,629 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,633 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,862 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,868 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,873 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,879 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,883 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,889 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,895 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,898 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,904 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,908 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,912 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:25,916 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,184 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,187 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,191 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,195 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,199 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,201 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,206 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,209 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,212 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,214 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,216 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,219 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,616 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,620 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,626 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,630 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,634 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,640 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,644 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,649 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,653 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,659 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,664 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,668 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,971 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,979 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,988 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,992 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:26,996 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,000 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,004 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,009 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,014 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,018 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,023 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,027 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,313 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,317 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,323 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,329 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,334 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,338 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,341 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,344 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,348 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,352 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,357 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,360 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,656 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,659 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,663 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,667 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,671 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,676 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,679 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,681 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,683 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,685 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,689 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,692 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,918 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,922 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,924 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,927 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,930 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,933 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,937 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,941 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,944 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,947 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,948 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:27,956 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,230 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,234 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,240 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,245 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,251 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,256 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,261 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,266 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,272 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,277 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,282 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,286 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,563 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,570 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,575 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,580 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,583 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,587 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,589 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,591 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,593 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,595 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,597 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,601 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,831 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,835 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,838 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,842 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,846 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,848 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,852 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,855 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,858 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,861 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,864 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:28,870 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,128 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,133 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,139 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,144 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,148 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,155 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,161 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,166 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,171 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,177 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,183 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,189 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,464 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,466 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,471 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,475 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,481 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,486 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,491 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,494 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,497 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,500 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,503 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,507 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,777 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,781 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,785 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,789 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,796 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,801 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,808 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,813 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,819 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,825 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,828 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:29,830 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,092 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,094 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,096 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,098 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,101 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,106 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,110 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,113 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,119 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,125 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,130 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,134 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,378 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,383 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,388 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,392 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,396 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,400 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,405 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,407 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,410 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,413 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,415 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,418 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,747 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,749 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,752 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,755 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,758 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,762 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,767 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,770 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,773 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,776 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,778 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:30,781 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,084 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,088 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,092 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,095 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,100 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,105 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,107 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,110 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,114 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,116 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,122 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,127 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,344 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,349 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,355 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,361 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,365 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,370 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,375 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,380 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,385 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,393 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,401 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,408 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,677 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,680 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,684 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,688 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,691 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,695 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,698 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,702 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,707 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,713 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,717 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,722 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,980 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,985 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,991 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:31,996 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,000 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,006 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,009 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,014 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,019 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,027 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,034 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,039 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,302 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,305 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,309 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,314 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,319 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,325 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,331 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,336 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,340 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,342 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,345 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,348 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,561 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,572 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,579 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,583 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,588 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,592 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,596 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,600 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,608 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,615 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,620 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,627 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,806 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,809 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,811 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,814 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,816 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,819 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,823 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,824 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,827 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,829 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,831 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:32,834 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,277 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,283 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,289 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,296 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,305 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,314 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,320 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,326 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,333 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,339 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,343 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,348 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,656 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,660 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,664 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,667 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,670 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,673 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,677 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,679 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,682 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,686 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,689 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,692 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,898 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,902 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,907 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,910 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,912 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,915 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,917 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,922 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,924 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,927 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,930 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:33,933 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,111 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,114 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,116 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,119 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,123 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,127 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,130 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,133 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,137 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,140 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,143 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,146 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,358 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,362 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,364 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,367 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,370 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,373 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,375 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,377 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,379 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,382 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,384 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,387 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,627 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,629 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,631 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,633 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,637 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,639 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,642 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,644 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,646 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,649 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,651 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:34,654 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,001 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,004 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,008 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,012 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,014 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,017 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,021 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,024 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,026 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,028 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,031 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,034 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,237 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,242 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,246 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,251 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,257 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,261 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,266 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,275 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,281 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,287 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,293 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,299 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,961 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,964 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,968 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,970 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,974 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,980 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,987 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,991 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:35,996 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,002 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,007 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,011 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,302 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,308 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,312 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,318 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,323 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,328 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,332 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,337 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,342 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,346 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,352 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,356 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,665 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,672 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,676 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,681 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,687 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,692 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,697 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,702 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,708 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,714 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,719 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:36,724 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,002 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,005 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,010 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,014 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,019 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,025 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,031 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,036 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,039 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,041 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,044 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,048 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,407 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,411 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,416 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,421 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,426 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,430 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,435 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,440 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,445 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,449 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,455 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,459 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,733 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,737 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,741 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,746 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,751 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,757 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,762 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,766 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,772 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,776 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,781 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:37,786 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,053 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,058 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,063 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,068 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,072 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,077 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,081 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,086 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,093 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,098 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,103 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,108 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,371 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,376 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,380 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,387 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,396 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,403 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,409 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,414 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,420 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,425 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,430 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,436 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,723 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,725 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,728 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,732 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,735 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,739 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,742 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,746 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,749 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,752 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,755 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:38,757 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,022 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,028 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,031 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,036 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,038 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,040 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,042 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,045 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,047 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,052 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,054 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,057 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,315 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,322 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,327 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,332 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,337 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,341 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,346 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,351 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,356 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,361 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,366 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:39,372 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,067 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,073 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,077 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,081 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,088 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,096 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,102 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,107 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,112 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,120 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,126 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,132 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,454 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,462 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,470 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,475 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,479 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,487 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,492 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,496 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,503 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,512 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,519 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,523 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,907 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,910 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,917 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,922 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,926 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,929 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,932 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,935 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,938 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,941 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,945 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:40,950 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,261 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,268 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,273 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,277 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,284 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,289 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,294 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,299 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,304 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,308 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,312 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,318 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,598 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,603 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,609 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,617 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,621 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,626 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,631 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,637 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,642 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,646 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,651 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,657 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,891 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,896 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,900 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,903 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,905 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,907 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,910 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,913 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,919 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,922 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,925 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:41,927 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,171 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,177 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,183 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,188 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,195 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,200 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,207 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,211 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,216 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,219 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,222 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,224 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,452 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,457 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,461 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,466 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,470 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,475 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,479 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,485 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,490 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,496 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,503 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,507 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,746 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,751 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,753 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,754 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,757 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,760 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,764 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,767 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,770 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,773 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,775 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:42,779 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,062 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,065 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,069 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,073 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,077 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,082 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,086 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,090 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,093 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,098 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,103 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,106 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,335 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,337 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,339 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,341 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,343 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,346 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,351 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,355 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,357 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,360 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,363 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,367 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,589 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,593 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,598 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,606 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,615 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,619 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,625 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,632 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,637 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,642 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,647 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,653 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,868 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,878 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,891 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,898 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,903 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,906 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,914 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,919 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,924 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,928 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,933 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:43,938 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,337 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,339 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,341 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,344 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,347 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,350 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,353 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,355 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,357 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,360 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,364 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,367 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,571 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,573 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,575 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,577 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,580 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,584 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,586 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,588 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,590 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,593 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,595 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,597 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,800 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,802 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,804 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,806 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,809 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,811 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,813 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,816 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,818 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,820 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,822 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:44,824 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,035 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,037 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,039 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,042 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,044 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,047 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,050 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,052 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,055 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,058 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,061 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,065 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,268 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,270 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,272 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,275 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,277 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,279 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,282 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,284 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,285 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,287 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,289 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,291 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,525 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,528 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,531 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,536 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,540 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,542 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,547 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,550 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,553 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,557 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,561 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,566 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,769 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,771 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,774 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,776 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,778 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,781 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,783 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,785 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,787 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,789 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,791 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:45,793 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,035 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,038 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,039 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,041 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,043 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,046 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,048 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,050 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,052 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,054 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,056 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,058 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,355 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,356 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,358 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,360 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,363 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,366 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,368 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,370 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,372 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,374 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,376 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,378 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,609 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,612 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,615 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,618 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,622 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,625 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,630 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,634 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,636 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,639 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,642 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,644 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,835 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,838 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,842 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,847 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,850 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,854 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,858 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,860 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,863 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,866 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,869 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:46,873 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,040 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,042 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,044 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,047 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,050 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,052 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,055 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,058 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,061 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,065 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,069 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,071 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,250 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,253 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,255 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,258 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,260 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,264 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,267 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,269 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,272 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,274 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,276 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,279 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,448 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,451 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,454 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,457 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,459 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,461 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,465 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,468 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,470 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,472 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,474 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,476 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,847 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,849 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,851 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,853 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,856 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,860 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,863 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,867 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,869 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,873 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,875 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:47,878 - INFO - Данные успешно сохранены в файл scraped_product_data_almaty.csv
+2023-08-14 00:18:50,115 - INFO - Скрапер завершил работу
